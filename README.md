@@ -1,0 +1,2 @@
+# MiniBool
+Simplify Boolean Expressoins
